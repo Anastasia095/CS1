@@ -17,4 +17,4 @@ If you'd like to help improve or add to the class examples, feel free to submit 
 
 *Readme courtesy of ChatGPT LOL* 😉.
 
-Thank you for your contributions and for helping us improve the quality of the class examples in this repository for CS1 with Travis.
+Thank you for your contributions and for helping us improve the quality of the class examples in this repository.

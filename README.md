@@ -7,6 +7,8 @@ This repository is dedicated to hosting code examples that were originally poste
 If you'd like to help improve or add to the class examples, feel free to submit a pull request. Your contributions are greatly appreciated.
 
 ## How to clone the repository
+**Not familiar with Git?** 
+This site has decent instruction on how to set up git if you never used it before [QAMadness Knowledge Base](https://www.qamadness.com/knowledge-base/how-to-install-git-and-clone-a-repository/).
 
 ### How to Contribute
 
@@ -17,8 +19,6 @@ If you'd like to help improve or add to the class examples, feel free to submit 
 5. Push your changes to your fork: `git push origin your-branch-name`.
 6. Create a pull request on this repository, explaining the changes you've made.
 
-**Not familiar with Git?** 
-This site has decent instruction on how to set up git if you never used it before [QAMadness Knowledge Base](https://www.qamadness.com/knowledge-base/how-to-install-git-and-clone-a-repository/).
 
 *I'm not goot at writing so Readme brought to you by ChatGPT – Keeping it fun and easy!* 😉.
 
